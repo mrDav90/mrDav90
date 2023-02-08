@@ -6,6 +6,7 @@
 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-REACT-333333?style=flat&logo=react&logoColor=1572B6)&nbsp;
+![Angular](https://img.shields.io/badge/-ANGULAR-333333?style=flat&logo=angular&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java)&nbsp;
